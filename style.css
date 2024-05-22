@@ -1,0 +1,29 @@
+
+
+ .black-han-sans-regular {
+    font-family: "Black Han Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+        
+  }
+
+  .container_pic {
+  background : rgba(189, 209, 208, 0.811);
+  display: table;
+  height: 20vh;
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+  align-items: center;
+  align-content: center;
+
+  }
+  .images_container {
+    background: beige;
+    width: 200px;
+    height: auto;
+    flex-shrink: 1;
+    object-fit: contain;
+}
+
